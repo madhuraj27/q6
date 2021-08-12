@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: my-nginx-q6
+  name: my-nginx-q6-new
 spec:
   ports:
   - port: 80
